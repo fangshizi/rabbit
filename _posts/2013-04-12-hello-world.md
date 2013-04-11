@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
-category:operation 
-tags: []
+category : operation 
+tags: [intro]
 ---
 {% include JB/setup %}
 #玩法变了
