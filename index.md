@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: post 
 title: "山东省沂南县众兴饲料有限公司"
 description: ""
 category: 
